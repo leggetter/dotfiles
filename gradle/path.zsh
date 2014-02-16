@@ -1,0 +1,1 @@
+export PATH=$GRADLE_HOME:$PATH

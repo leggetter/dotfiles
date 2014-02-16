@@ -1,0 +1,1 @@
+export PATH=/Users/leggetter/dev-tools/apache-maven-3.1.0/bin:$PATH
