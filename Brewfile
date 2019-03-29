@@ -37,7 +37,7 @@ cask 'iterm2'
 
 cask 'tunnelbear'
 cask 'slack'
-#cask 'google-chrome'
+cask 'google-chrome'
 cask 'alfred'
 cask 'bartender'
 cask 'fork'
